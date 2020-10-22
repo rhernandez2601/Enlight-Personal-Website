@@ -31,3 +31,15 @@ a:hover {
 .dark .card {
   background: rgb(68, 68, 128);
 }
+.form {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight:500;
+  font-size: 18px;
+  border-radius: 10px;
+  line-height: 22px;
+  background-color: transparent;
+  border:2px solid #004e92;
+  padding: 13px;
+  margin: 15px 0px;
+  width:100%;
+}
